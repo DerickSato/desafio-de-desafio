@@ -1,2 +1,2 @@
-#anotação 
-pontos importantes do curso
+# anotação
+pontos importantes
