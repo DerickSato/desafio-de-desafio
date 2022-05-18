@@ -1,0 +1,27 @@
+°GIT°
+SHA - cripitografia os projetos
+BLobs - objeto, tamanho e o conteudo (metadado)
+Trees - armazena blobs e o nome do arquivo
+Commit - juntar tudo, autor, mensagem
+SSH - conectao de duas maquinas, sendo uma chave.
+Tokens - "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"
+git init(.git) - cria um repositorio
+tracked - ciencia do arquivo
+untracked - nao tem ciencia do arquivo
+staged - se preparando para participar de um conjunto
+servidor - repositor remoto do servido do git hub
+
+git init - inicia um git
+git commit - m "mensagem "(colocar uma commit)
+ls -listagem (itens no diretorio)
+git remote - v (verifiar se foi movito para o repositorio)
+git remote add origin URL (adicionar os dados no servidor)
+git status (verificar o que modificou na pasta)
+mv arquivo diretorio (mover o arquivo)
+git push origin master (verifica se esta tudo certo)
+echo > arquivo.md (serve para criar um novo arquivo)
+git clone URL (clonar conteudo)
+git pull origin master (puxa os arquivos para a modificação)
+
+resolvendo conflitos - duas alteraç~oes na msm linha e nessesario uma modificação em um dels, sendo o mais atualizados.
+

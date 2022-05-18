@@ -1,0 +1,54 @@
+PENSAMENTO COMPUTACIONAL
+
+o pensamento computacional e uma forma de expressão ou solução do problema, sendo um pensamento sistematico que pode ser resolvido tanto pelo humano quanto um computador.
+Decompisição -  e o segmentação do produto(agrupamento dos subconjuntos)
+indentificar similaridades e tendencia
+abstração - idealizar um padrão
+pilar - passo a passo da solução do problema/instrução
+aperfecoar o algoritimo.
+
+°Habilidade complementares
+raciocinio logico resolução de um problema
+indução - fenomeno observados -leis e teorias 
+dedução - previsao e explicação por tal fenomeno.
+abdução - apos obsevado presupos o que aconteceu.
+Aperfeõamento - simplificar e facilita no entendimento.
+
+
+°Decomposição
+decompor e segmentar, para que possa resolver o problema, sendo os problemas menos para os maiores.
+peça tem que fazer um sentido.
+ordem se sequencimento ou paralelo.
+
+°Padrão
+roteiro ou modelo -  repetição que repita ba estrutura
+compressão dos dados(grau de similaridade).
+
+°Abristração
+generaligar -  e classificar um conteudo com conjunto de seres ou caracteristcas.
+
+°Algoritimos
+Precisa de instruçõa detalhadas do que o computador precisa computar.
+Dados de entrada e de saida.
+
+°Logica°
+ordem para determinado contexto
+tecnicas para programar - execução sequencial (dependencia entre si)
+
+°Fundamentos de algoritimos°
+variaveis -  dados e instrução -> numerico; caracter; booleano (logica entre verdadeiro e falso)
+condicional - condição para acontecer tal coisa.
+simples;composta ; encadeada(sucessao de condicinal)
+estrutura de repetição - condição de parada.(redução de linha e facilita a compreensão), executa ate achar o limitador.
+Vetores e Matriz - vetores sao dados alinhado e matriz e dados em tabela
+entrada /saida - inserir dados e exibir o resultado.
+
+°Linguagem de programação°
+codigo legivel sendo facil, confiabilidade( o que o codigo foi feito), sofre diversas atualizações
+analise do codigo - lexica, sintetica, semantica
+lexica - retira alguns dados desnessecario
+sintaxe - forma que defina corretudo de programa
+semantica - estudo do signifacado (logica do programa)
+paradigmas  - resolver um problema
+c - instrução em sequencia, decisão e iteração;
+orientação a objeto - análogo ao mundo real; caracterias especifica, comportamentos e estado.
